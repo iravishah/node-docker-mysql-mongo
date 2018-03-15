@@ -1,0 +1,25 @@
+{
+  "name": "node-docker-mysql-mongo",
+  "version": "1.0.0",
+  "description": "Simple application with Docker and Mysql/Mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iravishah/node-docker-mysql-mongo.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Docker",
+    "MySql",
+    "MongoDB"
+  ],
+  "author": "Ravi Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iravishah/node-docker-mysql-mongo/issues"
+  },
+  "homepage": "https://github.com/iravishah/node-docker-mysql-mongo#readme"
+}
